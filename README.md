@@ -3,17 +3,17 @@
 
 ```
 {
-  "server" : "sgp.sstz.info",
-  "server_port" : 49949,
+  "server" : "hk.sssxo.com",
+  "server_port" : 54665,
   "method" : "aes-256-gcm",
-  "password" : "sstz.info",
+  "password" : "sssxo.com",
 }
 ```
 #### shadowsocks服务端购买
 市面上有一些shadowsocks服务可供购买，比如
 
 
-[掠影](https://www.sstizi.tk) https://www.sstizi.tk/
+[掠影](https://www.sssxo.com) https://www.sssxo.com/
 
 如果你愿意折腾，可以自己租一个VPS搭建shadowsocks服务，成本更低，而且流量上限取决于你购买的VPS套餐，一般来说都很充裕。
 #### shadowsocks翻墙的原理
