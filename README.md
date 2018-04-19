@@ -8,16 +8,19 @@
   "method" : "aes-256-gcm",
   "password" : "sssxo.com",
 }
-```
+
+{
+  "server" : "47.75.160.242",
+  "server_port" : 50032,
+  "method" : "aes-256-gcm",
+  "password" : "sstizi.tk",
+}
 
 ```
-{
-  "server" : "d1.sssxo.com",
-  "server_port" : 49999,
-  "method" : "aes-128-gcm",
-  "password" : "sssxo.com",
-}
-```
+
+
+
+
 
 
 
