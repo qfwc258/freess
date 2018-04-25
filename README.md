@@ -12,9 +12,10 @@
 - 若有更高需求，请购买专用ss账号
 
 ### 免费ss账号
- 请在shadowsocks客户端菜单添加
-- ss line sgp, free trial, 新加坡线路
-  ```
+> 请在shadowsocks客户端菜单添加
+> ss line sgp, free trial, 新加坡线路
+ 
+```
 {
   "server" : "47.75.160.242",
   "server_port" : 50032,
@@ -23,6 +24,7 @@
 }
 
 ```
+
 - 更多线路，敬请期待！
 
 - [联系我们](./联系我们.md)
