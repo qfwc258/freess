@@ -17,8 +17,8 @@
  
 ```
 {
-  "server" : "47.75.160.242",
-  "server_port" : 50032,
+  "server" : "vip.sstz.info",
+  "server_port" : 46784,
   "method" : "aes-256-gcm",
   "password" : "sstizi.tk",
 }
