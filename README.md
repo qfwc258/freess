@@ -1,5 +1,5 @@
 # 免费ss账号
-> 最近一次更新于北京时间2018.05.21
+> 最近一次更新于北京时间2018.05.23
 
 ### 声明
 - 说明：仅供测试使用，请遵守国家法律法规！
@@ -17,12 +17,18 @@
  
 ```
 {
-  "server" : "vip.sstz.info",
+  "server" : "202.81.242.140",
   "server_port" : 46788,
   "method" : "aes-256-gcm",
   "password" : "sstizi.tk",
 }
 
+{
+  "server" : "202.81.242.140",
+  "server_port" : 46788,
+  "method" : "aes-256-gcm",
+  "password" : "sstizi.tk",
+}
 ```
 
 - 更多线路，敬请期待！
