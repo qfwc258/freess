@@ -11,7 +11,7 @@
 ### 免费账号使用须知：
 - 账号信息随时改变，测试时可用，一段时间后可能失效
 - 不稳定
-- 若有更高需求，请购买[专用ss账号](https://tzss.info)
+- 若有更高需求，请购买[专用ss账号](https://github.com/ssstk/sstizi.tk)
 
 ### 免费ss账号
 > 请在shadowsocks客户端菜单添加
